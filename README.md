@@ -5,7 +5,9 @@ Completely responsive MC Server website template (Free to use!)
 Entirely built in HTML5 and CSS3.
 
 ```
-@@ Here's a quick preview on how it looks like on different widths @@
+
+- Here's a quick preview on how it looks like on different widths 
+
 ```
 
 
