@@ -16,9 +16,7 @@ Here's a quick preview on how it looks like on different widths
 
 ```
 
-
 What it looks like on Mobile and Tablet
-
 
 ```
 
